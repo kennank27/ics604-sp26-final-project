@@ -97,5 +97,3 @@ ChatGPT was used during this project for:
 - Notebook organization recommendations
 - Visualization recommendations
 - Report formatting assistance
-
-All analysis, code execution, interpretations, and conclusions were reviewed and validated by the author.# ics604-sp26-final-project
