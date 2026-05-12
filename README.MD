@@ -59,47 +59,12 @@ Target Variable:
 ├── README.md
 ├── requirements.txt
 ├── student-mat.csv
-├── student_performance_analysis.ipynb
-└── report/
-    └── student_performance_report.pdf
+├── ics604_final_project.ipynb
+└── ics604_final_report.pdf
 ```
 
 ---
 
-# Installation
-
-Clone the repository:
-
-```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
-```
-
-Install required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-# Running the Project
-
-Launch Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-Then open:
-
-```text
-student_performance_analysis.ipynb
-```
-
-Run the notebook from top to bottom to reproduce the analysis, visualizations, and regression results.
-
----
 
 # Analysis Overview
 
